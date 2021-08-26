@@ -9,7 +9,7 @@ const books = [
    },
 ];
 
-
+let x = 23
 const resolvers = {
    Query: {
       books: () => books,
